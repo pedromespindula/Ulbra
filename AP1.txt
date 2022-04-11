@@ -1,32 +1,32 @@
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-uma nova linha
-.
-outra nova linha
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AP1</title>
+</head>
+<body>
+    <h1>Trabalho em grupo</h1>
+    <p>Diciplina: Introdução à Computação</p>
+    <p>Integrantes: Alessandra Silveira, David Linhares, Pedro Espíndola</p>
+    <p>.</p>
+    <p>.</p>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cumque, delectus. Beatae corporis distinctio animi hic illum quos deserunt quasi mollitia.</p>
+    <p>.</p>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius quo optio accusantium a modi natus fugiat adipisci voluptatibus! Quod, placeat.</p>
+    <p>.</p>
+    <p>.</p>
+    <p>.</p>
+    <p>.</p>
+    <p>.</p>
+    <p>.</p>
+    <p>.</p>
+    <p>.</p>
+    <p>.</p>
+    <p>.</p>
+    <p>.</p>
+    <p>.</p>
+    <p>.</p>
+</body>
+</html>
