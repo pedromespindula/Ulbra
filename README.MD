@@ -1,15 +1,18 @@
 ENUNCIADO:
 
 No repositório remoto crie uma nova branch derivando da Main chamada Development.
+(feito)
 No remoto crie uma nova branch derivando da Development chamada de Feature_1.
+(feito)
 No repositório local, puxe essas novas alterações do remoto. Qual comando usou aqui?
-- git clone
+- git pull
 
 No seu terminal, entre na branch feature_1. Qual comando?
-- git checkout -b feat1
+- git checkout feat1
 
 Altere o arquivo AP1.txt incluindo duas linhas de texto nas linhas 15 e 17.
 Suba as alterações da branch feature_1 para o repositório remoto. Exponha os comandos.
+- git checkout feat1
 - git add .
 - git commit -m "Adicionado argumento nas linhas 15 e 17"
 - git pull
