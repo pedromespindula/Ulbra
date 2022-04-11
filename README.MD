@@ -3,7 +3,7 @@ ENUNCIADO:
 No repositório remoto crie uma nova branch derivando da Main chamada Development.
 No remoto crie uma nova branch derivando da Development chamada de Feature_1.
 No repositório local, puxe essas novas alterações do remoto. Qual comando usou aqui?
-- git clone
+- git pull
 
 No seu terminal, entre na branch feature_1. Qual comando?
 - git checkout feat1
