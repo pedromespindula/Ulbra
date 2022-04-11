@@ -1,7 +1,9 @@
 ENUNCIADO:
 
 No repositório remoto crie uma nova branch derivando da Main chamada Development.
+(feito)
 No remoto crie uma nova branch derivando da Development chamada de Feature_1.
+(feito)
 No repositório local, puxe essas novas alterações do remoto. Qual comando usou aqui?
 - git clone
 
